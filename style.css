@@ -35,3 +35,6 @@ body {
     margin-left:auto;
     margin-right: auto;
 }
+#text {
+   float: left;
+}
